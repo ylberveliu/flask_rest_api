@@ -1,5 +1,7 @@
 # Flask REST API
 
+Code from the presntation "Building and consuming REST APIs with Python and Flask" I gave at 2nd Python meetup organized from [FLOSSK](http://flossk.org/)
+
 ## How to setup the project on Unix and Linux?
 
 ```sh
