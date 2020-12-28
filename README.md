@@ -5,7 +5,7 @@ Code from the presntation "Building and consuming REST APIs with Python and Flas
 ## How to setup the project on Unix and Linux?
 
 ```sh
-$ cd flask_api
+$ cd flask_rest_api
 $ virtualenv venv
 $ source venv/bin/activate
 $ pip install -r requirements.txt
@@ -17,7 +17,7 @@ $ flask run
 ## How to setup the project on Windows?
 
 ```sh
-$ cd flask_api
+$ cd flask_rest_api
 $ virtualenv venv
 $ venv\Scripts\activate
 $ pip install -r requirements.txt
